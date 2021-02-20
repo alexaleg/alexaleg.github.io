@@ -1,60 +1,60 @@
 ---
 layout: page
-permalink: /teaching/2020iiecdif/
-title: Ecuaciones Diferenciales 2020-II
+permalink: /teaching/2021icd/
+title: Cálculo Diferencial 2021-I
 ---
-![](/teaching/2020ii/img/Chaos.jpg)
-<br> <ins>Nombre:</ins> Ecuaciones Diferenciales
-<br> <ins>Código:</ins> 1000007-B
-<br> <ins>Grupo:</ins> 12
+![](/teaching/2021i/img/Elmer-pump-heatequation.png)
+<br> <ins>Nombre:</ins> Cálculo Diferencial
+<br> <ins>Código:</ins> 1000004-B
+<br> <ins>Grupo:</ins> 28
 <br> <ins>Horario:</ins> Mar - Jue 18:00 - 20:00
 <br> <ins>Docente:</ins> Alexander Leguizamón
 <br> <ins>Correo:</ins> [aleguizamonr@unal.edu.co](mailto:aleguizamonr@unal.edu.co)
-<br> <ins>Lugar:</ins> Google Meet  - [Link](https://meet.google.com/sjr-oore-xqh) 
-<br> <ins>Calendario:</ins> [Ver Archivo en Drive](https://docs.google.com/spreadsheets/d/1_MjxkVWJ-wF5PxZZYBbYpcTnrE9eyr_orTvKbwb7JBM/edit?usp=sharing])
-<br> <ins> Carpeta Drive:</ins> [Aquí](https://drive.google.com/drive/folders/0B4KGEZF4xfRsfnJyTHF3bWlnSXQ4QmtlaVJaRmpYSElkdFNZaTZhM1VBUlJHQ3prQ3Qta0E?usp=sharing)
+<br> <ins>Lugar:</ins> Por definir
+<br> <ins>Calendario:</ins> [Ver Archivo en Drive](https://docs.google.com/spreadsheets/d/1fhOmesiCJFo9i7XBCeIH7nmhvfPmSimVeHA6dayw0vQ/edit?usp=sharing)
+<br> <ins> Carpeta Drive:</ins> [Aquí](https://drive.google.com/drive/folders/0B4KGEZF4xfRsfmlFUlZuS0hUSllqdWliSkZtZ2xiMVFERDR0YTRFNW1nMDFOdUU1TnptR3M?usp=sharing)
 <br>
-**Actualizado**: 04 de Septiembre de 2020
+**Actualizado**: 20 de Febrero de 2021
+
 
 # Descripción del curso
-Este es un curso de ecuaciones diferenciales para ingeniería.
+Este es un curso de cálculo diferencial para ciencias e ingenierías.
 
 Al terminar el curso, usted será capaz de:
-- Integrar conceptos y técnicas de cálculo y álgebra lineal en el estudio de las ecuaciones diferenciales. 
-- Desarrollar y utilizar técnicas numéricas y analíticas para resolver ecuaciones diferenciales. 
-- Utilizar herramientas básicas de análisis cualitativo para predecir el comportamiento de las soluciones de una ecuación diferencial. 
-- Entender la importancia de las ecuaciones diferenciales como modelos matemáticos para interpretar y solucionar problemas físicos.
+- Utilizar funciones en una variable real para describir fenómenos relevantes a su disciplina.
+- Aplicar la idea de razón de cambio para modelar situaciones reales.
+- Resolver problemas básicos de optimización.
 
-    El enfoque de este curso será distinto al de cursos anteriores. 
+    El enfoque de este curso será distinto al de otros cursos. 
     Usted no solo debe ser capaz de utilizar procedimientos analíticos, sino que también:
 
-- Al finalizar este curso usted debe conocer algunas de las herramientas computacionales y numéricas usadas en la práctica profesional para resolver ecuaciones diferenciales. 
-- Adicionalmente, usted va a adquirir las herramientas conceptuales y cualitativas para poder juzgar la validez de las respuestas obtenidas por computador.
+- Al finalizar este curso usted debe conocer algunas de las herramientas computacionales y numéricas usadas en la práctica profesional.
 - Usted debe estar en capacidad de poner en contexto los conocimientos aprendidos. 
-    Para ello usted tendrá asignadas algunas lecturas a lo largo del curso.
+- Es decir que debe poderlos identificar las ideas matemáticas en problemas de otras áreas asi como estar en capacidad de comunicarlos a una amplia audiencia.
+  Para ello usted tendrá asignadas algunas lecturas y proyectos a lo largo del curso.
 
 # Evaluación
 La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguiente forma: 
 - 50% Parciales escritos
-    - 25% Primer Parcial (**08 de Octubre**)
-    - 25% Segundo Parcial (**26 de Noviembre**)
-- 30% Proyectos: en grupos de 5 estudiantes. La rúbrica a usar estará en classroom.
-    - 10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) 
-    - 10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) 
-    - 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**) (Si encuentran uno en SIMIODE que les interese me pueden comentar).
-- 20% Talleres (6)
+    - 25% Primer Parcial (**25 de Marzo**)
+    - 25% Segundo Parcial (**13 de Mayo**)
+- 30% Proyectos: en grupos de 6 estudiantes. La rúbrica a usar estará en classroom.
+    <!--- 10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) -->
+    <!--- 10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) -->
+    <!--- 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**) (Si encuentran uno en SIMIODE que les interese me pueden comentar).-->
+- 20% Talleres (6 ~ 7)
     - El objetivo de los talleres es complementar la formación del curso guiándolos a la hora de construir, usar técnicas, y validar técnicas que pueden **no ser vistas en clase**.
     - Solo si entregan los 6 talleres se tendrán en cuenta las 5 mejores notas.
     - En el calendario aparece la fecha en la que estará disponible cada nuevo taller.
     - La fecha de entrega es la fecha de cada taller es la fecha en que estará disponible el siguiente.
-    - De los talleres uno o dos ejercicios **BIEN ESCRITOS** serán calificados. Estos pueden incluir alguna pregunta sobre las lecturas.
-    - Los talleres estarán en GoogleClassroom  y en la [carpeta en Drive del curso.](https://drive.google.com/drive/folders/1qarcnN5hR8Ej5jjFyGUKtRSi7DIxGAE2?usp=sharing) 
+    - De los talleres unos pocos ejercicios **BIEN ESCRITOS** serán calificados. Estos pueden incluir alguna pregunta sobre las lecturas.
+    - Los talleres estarán en GoogleClassroom  y en la [carpeta en Drive del curso.](https://drive.google.com/drive/folders/0B4KGEZF4xfRsfmlFUlZuS0hUSllqdWliSkZtZ2xiMVFERDR0YTRFNW1nMDFOdUU1TnptR3M?usp=sharing) 
 
 # Recomendaciones
 - Ver recomendaciones generales sobre cómo estudiar [aquí](/teaching/)
 - Organice bien su tiempo. El trabajo del curso puede ser abrumador si se deja para última hora.
-- Los proyectos están disponibles desde ya. Es bueno que se familiaricen y empiecen a trabajar desde temprano. 
-- Igualmente busquen grupo temprano. Estos proyectos son <ins>bastante trabajo para una sola persona.</ins> 
+<!--- Los proyectos están disponibles desde ya. Es bueno que se familiaricen y empiecen a trabajar desde temprano. -->
+<!--- Igualmente busquen grupo temprano.Estos proyectos son <ins>bastante trabajo para una sola persona.</ins> -->
 - Los proyectos incluyen conocimientos de distintas disciplinas, luego es altamente recomendado que trabajen con gente de otras disciplinas.
 - La nota será asignada a las personas que estén escritas en el documento entregado.
 - Para los talleres se recomienda que trabajen en grupo pero que escriban las cosas de forma individual.
@@ -64,7 +64,7 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 - Es altamente recomendable que esté familiarizado con el idioma Inglés puesto que:
     - Es indispensable para su vida profesional (puede incluso ser más importante que los conocimientos técnicos).
     - Es difícil encontrar versiones traducidas de los libros guía.
-    - Las lecturas estarán en Inglés.
+    - Algunas lecturas estarán en Inglés.
 - Es recomendable que usted se familiarice con LaTeX:
     - Es el lenguaje en donde se escriben los textos técnicos.
     - Bono en los proyectos por estar hechos en LaTeX (+0.5).
@@ -73,13 +73,19 @@ La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguie
 
 ## Textos
 Este curso utilizará resultados y enfoques de distintos libros. 
-- **Texto guía:** Boyce W., Brannan J.R. (2015), Differential equations: An Introduction to Modern Methods and Applications.  3rd Edition. Wiley.
-- **Proyectos**  Blanchard., Devaney.,Hall.(2011) Differential Equations. 4th Edition.
-- **Proyectos**   Nagle K., Saff E., (2018) Fundamentals of Differential Equations. 9th Edition. Pearson Education.
--    Zill, D., Cullen, M. (2019). Differential Equations with Boundary Value Problems. 7th Edition. Thompson
+- Gilbert Strang, Edwin Herman, et al. Calculus: Volume 1. OpenStax [PDF](https://openstax.org/details/books/calculus-volume-1?Book%20details)
+- J. Stewart. Cálculo de una Variable. Trascendentes Tempranas. Editorial Cengage Learning,
+- G. Thomas. Cálculo en una Variable. Editorial Addison-Wesley (Pearson), 12ª edición.
+- Finney, R. L. Cálculo. Prentice Hall. 2000.
+- Hughes-Hallet, D., Gleason, A. M. Calculus. John Wiley&amp;sons. 1994.
+
+## Notas de clase
+- R.L. Fernandes. Cálculo Diferencial (Portugues) [PDF](https://www.math.tecnico.ulisboa.pt/~rfern/CI/CDI_FolhasMA.pdf)
+- J.A. Vallejo. Cálculo Diferencial con máxima [PDF](http://galia.fc.uaslp.mx/~jvallejo/ManualMaxima.pdf)
 
 ## Computación
-La herramienta computacional escogida para este curso es Python:
+Si bien no es necesario utilizar herramientas computaciones, es altamente recomendado que se familiaricen desde ya.
+La herramienta computacional recomendada para este curso es Python:
 -  Python: [anaconda](https://www.anaconda.com/products/individual) [Tutorial instalación en Windows](https://www.youtube.com/watch?v=YQu4OPmQ8Q0)
    -  MAC: utilizar brew. 
    -  Linux: utilizar gestor de paquetes de su distribución.
@@ -98,18 +104,6 @@ Si hicieron la instalación utilizando Anaconda, todas las librerías necesarias
 
 Todas estas herramientas son libres y de código abierto.
 Las pueden usar libremente en su vida profesional.
-
-Si buscan más ideas para hacer proyectos pueden mirar:
-- [SIMIODE](https://simiode.org/): es una página donde hay distintos conceptos de ecuaciones diferenciales explicados mediante modelos y por gente de todo el mundo. 
-    - [Competencia estudiantil SCUDEM](https://www.simiode.org/scudem/2020): parte de SIMIODE. Van a competir como grupo de estudiantes modelando un problema de ecuaciones diferenciales.
--  [Competencia IBM](https://developer.ibm.com/es/maraton/): competencia de desarrollo de software. Pueden usar lo que se ve en el curso para construir algo chévere.
-
-- Para complementar su formación es importante que usted lea las lecturas que se van a dejar a lo largo del curso. Estas lecturas estarán en Classroom.
-
-- Otras herramientas:
-   - [DField& PPlane](https://math.rice.edu/~dfield/)
-    - [Curso MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
-
 ## Escritura
 - LaTeX:
     - [Tutoriales Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
@@ -117,6 +111,7 @@ Si buscan más ideas para hacer proyectos pueden mirar:
     - Para usarlo en el computador: [TeXStudio](https://www.texstudio.org/) 
     - Un programa que hace LaTeX menos intimidante: [LyX](https://www.lyx.org/)
     
+
 # Reglamentación
 Calendario Académico Universidad Nacional. [Acuerdo 184 de 2020](http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=95322)
 

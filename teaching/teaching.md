@@ -3,12 +3,17 @@ layout: page
 permalink: /teaching/
 title: Teaching
 curs:
+    - title:   "Cálculo Diferencial"
+      <>note:  "In Spanish"
+      year:    "2021-II"
+      uni:     "Universidad Nacional de Colombia Sede Bogotá"
+      url:     "/teaching/2021icd/" 
+pasts:
     - title:   "Ecuaciones Diferenciales"
       <>note:  "In Spanish"
       year:    "2020-II"
       uni:     "Universidad Nacional de Colombia Sede Bogotá"
-      url:     "/teaching/ecdif2020ii/" 
-pasts:
+      url:     "/teaching/2020iiecdif/" 
     - title:   "Ecuaciones Diferenciales"
       <>note:  "In Spanish"
       year:    "2020-I"
