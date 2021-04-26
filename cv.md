@@ -3,9 +3,11 @@ layout: page
 title: CV 
 permalink: /cv/
 ---
+
 PDF in [Spanish](https://drive.google.com/open?id=1AOvXXzBRGvGJEjhsJCvJ5hZqfZhCQjid).
 
-PDF in English (Coming soon)
+PDF in [English]( https://www.dropbox.com/s/r03ubkcqcvr4ohr/CV-Alexander_Leguizamon.pdf?dl=0)
+
 ## Education
 MSc Mathematical Sciences - Universidad Nacional de Colombia - Sede Bogotá
 

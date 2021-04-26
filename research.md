@@ -32,7 +32,15 @@ pubs:
       <>    url:  "http://www.imdb.com/title/tt0133093/"
 
 ---
+## Research interests. 
+I am looking forward to become an independent researcher in mathematics. 
+My main interests lie in the intersection between algebra and geometry. 
+During my master, I've been trained mostly in Poisson geometry and its generalizations. 
 
+Recently, I've been drawn to the study of deformation theory and quatization. 
+
+
+    
 ## Publications
 {% assign thumbnail="left" %}
 
@@ -64,3 +72,9 @@ pubs:
 {% if book.media %}<br />URL: {% for article in book.media %}[[{{article.name}}]({{article.url}})]{% endfor %}{% endif %}
 
 {% endfor %}
+
+
+<br/>
+
+## Theses 
+* MSc Pure Mathematics - [On Moment Maps and Jacobi Manifolds](https://www.dropbox.com/s/fvod3jkn15kqun5/EncabezadoTesisMSc.pdf?dl=0). 

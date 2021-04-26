@@ -6,10 +6,14 @@ permalink: /
 {% include image.html url="images/photo1.jpg" caption="" width="450px" align="left" %}
 
 My name is Alexander Leguizamón-Robayo. 
-Currently, I am a master student of Mathematics at the National University of Colombia, Bogotá. 
+Currently, I am looking for opportunities to carry out a PhD in Pure mathematics.
+
+Up to April 2021, I was a master student of Mathematics at the National University of Colombia, Bogotá. 
+
+I have succesfully defended my thesis.
 My thesis is related to Jacobi structures and their symmetries under the supervision of [Prof.Nicolás Martínez Alba](https://sites.google.com/unal.edu.co/sem-interaccionesgeomfisica/organizadores/nicol%C3%A1s-mart%C3%ADnez?authuser=0) and [Prof. Daniele Sepe](https://sites.google.com/site/danielesepemaths/) at UFF. 
 
-This semester I am teaching differential calculus for engineers and scientists [Cálculo Diferencial](/teaching/2021icd/)
+<!--This semester I am teaching differential calculus for engineers and scientists [Cálculo Diferencial](/teaching/2021icd/)-->
 
 I am also organizing a coding club for undergraduates of all disciplines (in Spanish).
 We focus on self-learning, the use of modern tools and techniques, and soft skills,  to build and implement mathematical models related to each of the members' interests.
@@ -20,3 +24,4 @@ Previously, I was a master student in Chemical Engineering at NTNU Trondheim und
 [Contact](/contact/)
 
 If you find any errors, broken links and so on don't hesitate to contact me.
+
