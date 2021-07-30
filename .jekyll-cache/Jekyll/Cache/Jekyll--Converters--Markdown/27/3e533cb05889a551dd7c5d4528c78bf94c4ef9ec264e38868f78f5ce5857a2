@@ -1,0 +1,152 @@
+I"D#<p><img src="/teaching/2021i/img/Elmer-pump-heatequation.png" alt="" />
+<br /> <ins>Nombre:</ins> Cálculo Diferencial
+<br /> <ins>Código:</ins> 1000004-B
+<br /> <ins>Grupo:</ins> 28
+<br /> <ins>Horario:</ins> Mar - Jue 18:00 - 20:00
+<br /> <ins>Docente:</ins> Alexander Leguizamón
+<br /> <ins>Correo:</ins> <a href="mailto:aleguizamonr@unal.edu.co">aleguizamonr@unal.edu.co</a>
+<br /> <ins>Lugar:</ins> Por definir
+<br /> <ins>Calendario:</ins> <a href="https://docs.google.com/spreadsheets/d/1fhOmesiCJFo9i7XBCeIH7nmhvfPmSimVeHA6dayw0vQ/edit?usp=sharing">Ver Archivo en Drive</a>
+<br /> <ins> Carpeta Drive:</ins> <a href="https://drive.google.com/drive/folders/0B4KGEZF4xfRsfmlFUlZuS0hUSllqdWliSkZtZ2xiMVFERDR0YTRFNW1nMDFOdUU1TnptR3M?usp=sharing">Aquí</a>
+<br />
+<strong>Actualizado</strong>: 20 de Febrero de 2021</p>
+
+<h1 id="descripción-del-curso">Descripción del curso</h1>
+<p>Este es un curso de cálculo diferencial para ciencias e ingenierías.</p>
+
+<p>Al terminar el curso, usted será capaz de:</p>
+<ul>
+  <li>Utilizar funciones en una variable real para describir fenómenos relevantes a su disciplina.</li>
+  <li>Aplicar la idea de razón de cambio para modelar situaciones reales.</li>
+  <li>
+    <p>Resolver problemas básicos de optimización.</p>
+
+    <p>El enfoque de este curso será distinto al de otros cursos. 
+  Usted no solo debe ser capaz de utilizar procedimientos analíticos, sino que también:</p>
+  </li>
+  <li>Al finalizar este curso usted debe conocer algunas de las herramientas computacionales y numéricas usadas en la práctica profesional.</li>
+  <li>Usted debe estar en capacidad de poner en contexto los conocimientos aprendidos.</li>
+  <li>Es decir que debe poderlos identificar las ideas matemáticas en problemas de otras áreas asi como estar en capacidad de comunicarlos a una amplia audiencia.
+Para ello usted tendrá asignadas algunas lecturas y proyectos a lo largo del curso.</li>
+</ul>
+
+<h1 id="evaluación">Evaluación</h1>
+<p>La evaluación tendrá lugar en GoogleClassroom y está distribuida de la siguiente forma:</p>
+<ul>
+  <li>50% Parciales escritos
+    <ul>
+      <li>25% Primer Parcial (<strong>25 de Marzo</strong>)</li>
+      <li>25% Segundo Parcial (<strong>13 de Mayo</strong>)</li>
+    </ul>
+  </li>
+  <li>30% Proyectos: en grupos de 6 estudiantes. La rúbrica a usar estará en classroom.
+  <!--- 10% Proyecto 2.2 Libro Boyce (**24 de Septiembre**) -->
+  <!--- 10% Proyecto 5.1 Libro Nagle (**29 de Octubre**) -->
+  <!--- 10% Proyecto 7.2 Libro Boyce (**08 de Diciembre**) (Si encuentran uno en SIMIODE que les interese me pueden comentar).--></li>
+  <li>20% Talleres (6 ~ 7)
+    <ul>
+      <li>El objetivo de los talleres es complementar la formación del curso guiándolos a la hora de construir, usar técnicas, y validar técnicas que pueden <strong>no ser vistas en clase</strong>.</li>
+      <li>Solo si entregan los 6 talleres se tendrán en cuenta las 5 mejores notas.</li>
+      <li>En el calendario aparece la fecha en la que estará disponible cada nuevo taller.</li>
+      <li>La fecha de entrega es la fecha de cada taller es la fecha en que estará disponible el siguiente.</li>
+      <li>De los talleres unos pocos ejercicios <strong>BIEN ESCRITOS</strong> serán calificados. Estos pueden incluir alguna pregunta sobre las lecturas.</li>
+      <li>Los talleres estarán en GoogleClassroom  y en la <a href="https://drive.google.com/drive/folders/0B4KGEZF4xfRsfmlFUlZuS0hUSllqdWliSkZtZ2xiMVFERDR0YTRFNW1nMDFOdUU1TnptR3M?usp=sharing">carpeta en Drive del curso.</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="recomendaciones">Recomendaciones</h1>
+<ul>
+  <li>Ver recomendaciones generales sobre cómo estudiar <a href="/teaching/">aquí</a></li>
+  <li>Organice bien su tiempo. El trabajo del curso puede ser abrumador si se deja para última hora.
+<!--- Los proyectos están disponibles desde ya. Es bueno que se familiaricen y empiecen a trabajar desde temprano. -->
+<!--- Igualmente busquen grupo temprano.Estos proyectos son <ins>bastante trabajo para una sola persona.</ins> --></li>
+  <li>Los proyectos incluyen conocimientos de distintas disciplinas, luego es altamente recomendado que trabajen con gente de otras disciplinas.</li>
+  <li>La nota será asignada a las personas que estén escritas en el documento entregado.</li>
+  <li>Para los talleres se recomienda que trabajen en grupo pero que escriban las cosas de forma individual.</li>
+  <li>Es recomendable que <strong>Verifiquen</strong> sus respuestas con Python. Pueden usar GoogleColab + Jupyter para incluir el cálculo a mano y la verificación del ejercicio en un mismo documento.</li>
+  <li>Durante las clases habrán algunos ejercicios muy cortos de verificación. Revisarlos es lo <strong>mínimo</strong> para seguir el curso.</li>
+  <li>Usted debe leer el material del curso antes de las clases.</li>
+  <li>Es altamente recomendable que esté familiarizado con el idioma Inglés puesto que:
+    <ul>
+      <li>Es indispensable para su vida profesional (puede incluso ser más importante que los conocimientos técnicos).</li>
+      <li>Es difícil encontrar versiones traducidas de los libros guía.</li>
+      <li>Algunas lecturas estarán en Inglés.</li>
+    </ul>
+  </li>
+  <li>Es recomendable que usted se familiarice con LaTeX:
+    <ul>
+      <li>Es el lenguaje en donde se escriben los textos técnicos.</li>
+      <li>Bono en los proyectos por estar hechos en LaTeX (+0.5).</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="recursos">Recursos</h1>
+
+<h2 id="textos">Textos</h2>
+<p>Este curso utilizará resultados y enfoques de distintos libros.</p>
+<ul>
+  <li>Gilbert Strang, Edwin Herman, et al. Calculus: Volume 1. OpenStax <a href="https://openstax.org/details/books/calculus-volume-1?Book%20details">PDF</a></li>
+  <li>J. Stewart. Cálculo de una Variable. Trascendentes Tempranas. Editorial Cengage Learning,</li>
+  <li>G. Thomas. Cálculo en una Variable. Editorial Addison-Wesley (Pearson), 12ª edición.</li>
+  <li>Finney, R. L. Cálculo. Prentice Hall. 2000.</li>
+  <li>Hughes-Hallet, D., Gleason, A. M. Calculus. John Wiley&amp;sons. 1994.</li>
+</ul>
+
+<h2 id="notas-de-clase">Notas de clase</h2>
+<ul>
+  <li>R.L. Fernandes. Cálculo Diferencial (Portugues) <a href="https://www.math.tecnico.ulisboa.pt/~rfern/CI/CDI_FolhasMA.pdf">PDF</a></li>
+  <li>J.A. Vallejo. Cálculo Diferencial con máxima <a href="http://galia.fc.uaslp.mx/~jvallejo/ManualMaxima.pdf">PDF</a></li>
+</ul>
+
+<h2 id="computación">Computación</h2>
+<p>Si bien no es necesario utilizar herramientas computaciones, es altamente recomendado que se familiaricen desde ya.
+La herramienta computacional recomendada para este curso es Python:</p>
+<ul>
+  <li>Python: <a href="https://www.anaconda.com/products/individual">anaconda</a> <a href="https://www.youtube.com/watch?v=YQu4OPmQ8Q0">Tutorial instalación en Windows</a>
+    <ul>
+      <li>MAC: utilizar brew.</li>
+      <li>Linux: utilizar gestor de paquetes de su distribución.</li>
+      <li><a href="https://drive.google.com/drive/folders/1-cNsHTWosjvuEo8F7eOjHGevE88UzzoW?usp=sharing">Tutoriales</a></li>
+    </ul>
+  </li>
+  <li>Python Online:
+    <ul>
+      <li><a href="https://colab.research.google.com">Google Colaboratory</a></li>
+      <li><a href="https://repl.it/languages">Repl.it</a> <em>Seleccionar Python</em></li>
+      <li><a href="https://cocalc.com/doc/python.html">CoCalc</a> (No recomendado. Antes era bueno :c - pero lo dejo acá por si vuelve a ser bueno c: )</li>
+    </ul>
+  </li>
+  <li>Librerías:
+    <ul>
+      <li><a href="https://numpy.org/devdocs/user/quickstart.html">Numpy</a>: cálculo numérico.</li>
+      <li><a href="https://docs.sympy.org/latest/tutorial/index.html">SymPy</a>: cálculo simbólico.</li>
+      <li><a href="https://matplotlib.org/3.3.1/users/index.html">Matplotlib</a>: gráficos.</li>
+      <li><a href="https://www.scipy.org/getting-started.html">SciPy</a>: computación científica. <strong>AVANZADA</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Si hicieron la instalación utilizando Anaconda, todas las librerías necesarias y Jupyter notebook ya vienen incluidos.</p>
+
+<p>Todas estas herramientas son libres y de código abierto.
+Las pueden usar libremente en su vida profesional.</p>
+<h2 id="escritura">Escritura</h2>
+<ul>
+  <li>LaTeX:
+    <ul>
+      <li><a href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes">Tutoriales Overleaf</a></li>
+      <li>Para usar Latex en línea: <a href="https://www.overleaf.com/">Overleaf</a></li>
+      <li>Para usarlo en el computador: <a href="https://www.texstudio.org/">TeXStudio</a></li>
+      <li>Un programa que hace LaTeX menos intimidante: <a href="https://www.lyx.org/">LyX</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="reglamentación">Reglamentación</h1>
+<p>Calendario Académico Universidad Nacional. <a href="http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=95322">Acuerdo 184 de 2020</a></p>
+
+<p>Estatuto Estudiantil Pregrado. <a href="http://www.legal.unal.edu.co/rlunal/home/doc.jsp?d_i=34983">Acuerdo 008 de 2008</a></p>
+
+:ET
