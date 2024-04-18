@@ -13,8 +13,8 @@
     #- subtitle: "Current"
       #subhref: "/teaching/2021icd/"
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+  #href: "/blog/"
 
 #- title: "Contact"
   #href: "/contact/"
