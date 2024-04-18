@@ -4,11 +4,14 @@
 - title: "Research"
   href: "/research/"
 
+- title: "Software"
+  href: "/software/"
+
 - title: "Teaching"
   href: "/teaching/"
-  subcategories:
-    - subtitle: "Current"
-      subhref: "/teaching/2021icd/"
+  #subcategories:
+    #- subtitle: "Current"
+      #subhref: "/teaching/2021icd/"
 
 - title: "Blog"
   href: "/blog/"
@@ -16,8 +19,8 @@
 #- title: "Contact"
   #href: "/contact/"
 
-- title: "Other"
-  href: "/Other/"
+#- title: "Other"
+  #href: "/Other/"
 #  subcategories:
 #    - subtitle: "Item 1"
 #      subhref: "/miscellany/item-1/"
