@@ -3,16 +3,25 @@ layout: page
 permalink: /teaching/
 title: Teaching
 curs:
-    
-pasts:
     - title:   "Design definition and implementation of a programming language"
-      note:  "Project supervision"
-      year:    "2023-I, 2024-I"
+      note:    "Project supervision: <br /> Procedural Map Generation I <br /> Procedural Map Generation II "
+      year:    "2024-I"
+      uni:     "Aalborg University"
+      url:     "https://moduler.aau.dk/course/2022-2023/DSNDATB410"
+pasts:
+    - title:   "Data analysis and modelling"
+      note:    "Project supervision: <br /> Real-time Strategy Games Research with Deep Reinforcement Learning <br /> Exploratory machine learning for classificationsof illnesses on medical x-rays. "
+      year:    "2023-II"
+      uni:     "Aalborg University"
+      url:     "https://moduler.aau.dk/course/2022-2023/DSNDATB521"
+    - title:   "Design definition and implementation of a programming language"
+      note:    "Project supervision <br /> Embedded System Language Focused on Power Optimizations <br /> MapGenius. The procedural map generation language."
+      year:    "2023-I"
       uni:     "Aalborg University"
       url:     "https://moduler.aau.dk/course/2022-2023/DSNDATB410"
     - title:   "Data analysis and modelling"
-      note:    "Project supervision"
-      year:    "2022-II, 2023-II"
+      note:    "Project supervision <br /> Linear versus nonlinear dimensionality reduction.<br /> Music informed neural network for music generation."
+      year:    "2022-II"
       uni:     "Aalborg University"
       url:     "https://moduler.aau.dk/course/2022-2023/DSNDATB521"
     - title:   "Cálculo Diferencial"
@@ -51,7 +60,7 @@ Some resources for students ([here](/teaching/resources)):
 [**{{cur.title}}**]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})<br />
 {{cur.uni}}<br />
 *{{cur.year}}*
-{% if cur.note %} *({{cur.note}})*
+{% if cur.note %} {{cur.note}}
 {% endif %}
 {% endfor %}
 
@@ -60,6 +69,6 @@ Some resources for students ([here](/teaching/resources)):
 [**{{past.title}}**]({% if past.internal %}{{past.url | prepend: site.baseurl}}{% else %}{{past.url}}{% endif %})<br />
 {{past.uni}}<br />
 *{{past.year}}*
-{% if past.note %} *({{past.note}})*
+{% if past.note %} {{past.note}}
 {% endif %}
 {% endfor %}

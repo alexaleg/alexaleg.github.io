@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alexander LR
+title: Alexander Leguizamon-Robayo
 email: alexanderlr@cs.aau.dk
 description: 
 #Powered by <a href="http://jekyllthemes.org/themes/svm-ngvb/">Steve's NGVB theme.</a>
@@ -25,6 +25,7 @@ github_username:  alexaleg
 gitlab_username:  alexaleg
 orcid_username: https://orcid.org/0000-0002-4718-0825
 linkedin_username: aleguizamonr
+name_display: Alexander LR
 name: Alexander Leguizamon-Robayo
 affiliation: Aalborg University
 address: Aalborg, Denmark

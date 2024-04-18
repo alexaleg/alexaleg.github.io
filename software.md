@@ -4,10 +4,10 @@ permalink: /software/
 title: "Software"
 softwares:
     - title:   "CLUE"
-      desc:  "Python implementation of my current work as a PhD."
+      desc:    "This is a python library that provides an implementation of several different methods to compute linearl lumpings for dynamical systems. This is a work in progress."
       url:     "https://github.com/alexaleg/CLUE"
     - title:   "Optimal operation of small LNG cycles"
-      desc:  "This repository corresponds to the MATLAB simulation codes for modelling and optimizing the Mini - LNG System proposed by Nekså, 2010. A previous mdoel of this system was developed by Leguizamon, 2016. This works expands and improves the previous formulation." 
+      desc:    "This is a MATLAB implementation of a simulation of a small LNG refrigeration cycle. It uses an equations based approach in which the thermodynamics, equipment models, and energy consumption are optimized simultaneously." 
       url:     "https://github.com/alexaleg/OptimRefCycles"
 ---
 {% assign thumbnail="left" %}
