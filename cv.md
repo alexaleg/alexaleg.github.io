@@ -8,7 +8,7 @@ permalink: /cv/
 
 <!--PDF in [English]( https://www.dropbox.com/s/r03ubkcqcvr4ohr/CV-Alexander_Leguizamon.pdf?dl=0)-->
 ## Work Experience
-- (Jan 2023 - Present), **PhD Student**, Aalborg University, Aalborg, Denmark
+- (Jan 2022 - Present), **PhD Student**, Aalborg University, Aalborg, Denmark
 - (Feb 2020 - Apr 2021), **Student Lecturer**, National University of Colombia, Bogota, Colombia
 - (Jan 2016 - Jun 2019), **Lecturer**, Central University, Bogota, Colombia
 
