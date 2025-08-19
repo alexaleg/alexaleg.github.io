@@ -3,12 +3,12 @@ layout: page
 permalink: /teaching/
 title: Teaching
 curs:
+pasts:
     - title:   "Design definition and implementation of a programming language"
       note:    "Project supervision: <br /> Procedural Map Generation I <br /> Procedural Map Generation II "
       year:    "2024-I"
       uni:     "Aalborg University"
       url:     "https://moduler.aau.dk/course/2022-2023/DSNDATB410"
-pasts:
     - title:   "Data analysis and modelling"
       note:    "Project supervision: <br /> Real-time Strategy Games Research with Deep Reinforcement Learning <br /> Exploratory machine learning for classificationsof illnesses on medical x-rays. "
       year:    "2023-II"
@@ -53,17 +53,17 @@ pasts:
 ---
 
 Some resources for students ([here](/teaching/resources)):
-## Current
-{% assign thumbnail="left" %}
-
-{% for cur in page.curs %}
-[**{{cur.title}}**]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})<br />
-{{cur.uni}}<br />
-*{{cur.year}}*
-{% if cur.note %} {{cur.note}}
-{% endif %}
-{% endfor %}
-
+<!-- ## Current -->
+<!-- {% assign thumbnail="left" %} -->
+<!---->
+<!-- {% for cur in page.curs %} -->
+<!-- [**{{cur.title}}**]({% if cur.internal %}{{cur.url | prepend: site.baseurl}}{% else %}{{cur.url}}{% endif %})<br /> -->
+<!-- {{cur.uni}}<br /> -->
+<!-- *{{cur.year}}* -->
+<!-- {% if cur.note %} {{cur.note}} -->
+<!-- {% endif %} -->
+<!-- {% endfor %} -->
+<!---->
 ## Past 
 {% for past in page.pasts %}
 [**{{past.title}}**]({% if past.internal %}{{past.url | prepend: site.baseurl}}{% else %}{{past.url}}{% endif %})<br />

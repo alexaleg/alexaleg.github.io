@@ -1,20 +1,20 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Research"
-  href: "/research/"
+# - title: "Research"
+#   href: "/research/"
 
 - title: "Software"
   href: "/software/"
 
-- title: "Teaching"
-  href: "/teaching/"
+# - title: "Teaching"
+#   href: "/teaching/"
   #subcategories:
     #- subtitle: "Current"
       #subhref: "/teaching/2021icd/"
 
-#- title: "Blog"
-  #href: "/blog/"
+- title: "Blog"
+  href: "/blog/"
 
 #- title: "Contact"
   #href: "/contact/"

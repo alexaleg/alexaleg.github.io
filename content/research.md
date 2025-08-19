@@ -20,6 +20,20 @@ books:
       url:     "https://www.libreriadelau.com/analisis-y-simulacion-de-procesos-en-ingenieria-quimica/p"
       <>doi:     "http://dx.doi.org/10.1007/978-3-319-14812-0"
 pubs:
+    - title:   "Approximate constrained lumping of chemical reaction networks"
+      author:  "Leguizamon-Robayo, A., Jiménez-Pastor, A., Tribastone, M.,  Tschaikowski, M., Vandin, A."
+      journal: "Proceedings of the Royal Society A"
+      year:    "2025"
+      url:     "https://royalsocietypublishing.org/doi/10.1098/rspa.2024.0754"
+      doi:     "https://doi.org/10.1098/rspa.2024.0754"
+    - title:   "Approximate Reductions of Rational Dynamical Systems in CLUE"
+      author:  "Leguizamon-Robayo, A., Jiménez-Pastor, A.,  Tschaikowski, M., Vandin, A."
+      journal: "Lecture Notes in Computer Science"
+      note:    "Conference Computational Methods in Systems Biology"
+      year:    "2024"
+      url:     "https://link.springer.com/chapter/10.1007/978-3-031-71671-3_9"
+      doi:     "https://doi.org/10.1007/978-3-031-71671-3_9"
+
     - title:   "Approximate Constrained Lumping of Polynomial Differential Equations"
       author:  "Leguizamon-Robayo, A., Jiménez-Pastor, A., Tribastone, M., Tschaikowski, M., Vandin, A."
       journal: "Lecture Notes in Computer Science"
@@ -88,5 +102,6 @@ pubs:
 <br/>
 
 # Theses 
+* PhD Thesis - [Efficient Analysis of Biochemical and Cyber-Physical Systems via Model Reduction](https://vbn.aau.dk/da/publications/efficient-analysis-of-biochemical-and-cyber-physical-systems-via-)
 * MSc Pure Mathematics - [On Moment Maps and Jacobi Manifolds](https://repositorio.unal.edu.co/bitstream/handle/unal/79669/EncabezadoTesisMSc.pdf?sequence=2&isAllowed=y){:target="_blank"}. 
 * MSc Chemical Engineering - [Optimal Operation of Small LNG Refrigeration Cycles](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2413532){:target="_blank"}.

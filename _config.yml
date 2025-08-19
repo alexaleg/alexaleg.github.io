@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alexander Leguizamon-Robayo
-email: alexanderlr@cs.aau.dk
+email: aleguizamonr@gmail.com
 description: 
 #Powered by <a href="http://jekyllthemes.org/themes/svm-ngvb/">Steve's NGVB theme.</a>
 >- # this means to ignore newlines until "baseurl:"
@@ -27,7 +27,7 @@ orcid_username: https://orcid.org/0000-0002-4718-0825
 linkedin_username: aleguizamonr
 name_display: Alexander LR
 name: Alexander Leguizamon-Robayo
-affiliation: Aalborg University
+# affiliation: Aalborg University
 address: Aalborg, Denmark
 # Build settings
 markdown: kramdown
