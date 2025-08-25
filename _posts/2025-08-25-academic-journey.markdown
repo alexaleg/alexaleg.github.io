@@ -162,7 +162,7 @@ Deep down, I knew I did not want to continue my life as an academic.
 
 Looking back at this journey, I don't think any of the steps were a waste of time.
 I am glad I was able to experience so many different disciplines. 
-I wonder how many mathematicians can brag about ~the suffering of~ having been through experimental courses.
+I wonder how many mathematicians can brag about ~~the pain of~~ having been through experimental courses.
 I feel lucky that in the buffet of life I was able to taste so many different dishes.
 One of the nicest feelings is that of getting a new mode of thinking (kinda like how Megaman gets a new weapon after defeating a boss) from each discipline.
 
