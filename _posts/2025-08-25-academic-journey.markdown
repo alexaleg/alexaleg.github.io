@@ -8,9 +8,10 @@ categories:
 excerpt: ""
 image: "noidea.jpg"
 ---
-Looking for a job can be a gruelling process, yet also a learning experience.
-After some interviews (and many months of therapy), I would like to look back at my unorthodox academic journey.
-I sometimes feel that having taken many turns was a mistake, and I would like to question that feeling.
+Looking for a job can be a gruelling process, but also a learning experience.
+After some interviews (and many months of therapy), I feel ready to look back at my unorthodox academic journey.
+Sometimes, I feel that having taken many turns was a mistake. 
+I would like to challenge that feeling.
 Without further ado, be my guest, dear reader, and accompany me on this trip through memory lane.
 
 
@@ -172,5 +173,5 @@ I have used these months to play with code and learn new technologies.
 After each interview, I do a debrief about the interesting ideas from the position, and those feed my backlog of personal projects.
 I have also learned a lot about how to communicate my skills in a more marketable way.
 Seeing the landscape of things to learn outside academia, I am sure leaving it is the right choice.
-Maybe the most important insight I got is that a nonlinear path is not a mistake; it is life.
+The most important insight I got is that a nonlinear path is not a mistake; it is life.
 
