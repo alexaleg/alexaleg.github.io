@@ -11,6 +11,6 @@ I like writing programs and thinking about mathematics.
 Sometimes I write blogs about things that  I find interesting.
 
 
-Some older resources:
+Some other resources:
 - [Research](/research/)
 - [Teaching](/teaching/)
