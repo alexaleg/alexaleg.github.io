@@ -1,11 +1,10 @@
-Recently I found myself watching a video that felt like going on a walk and talking with an old friend who I haven't seen in a long long time. 
+Recently I found myself watching a [video](https://www.youtube.com/watch?v=lpD9DbAh4_g&pp=ygUZd2hvIGlzIG1hdGhlbWF0aWNzIHRvIHlvdQ%3D%3D) that felt like going on a walk and talking with an old friend who I haven't seen in a long long time. 
 The video was called "Who is mathematics to you?" and it touched on many topics that resonated with me. 
-
 My goal in this essay whatsoever is to come up with an answer: who is mathematics to me?
 
-As it is the case with people, mathematics is complex, changing, and, surprisingly, full of contradictions.
+As it is the case with people, mathematics is complex, changing, and, as I attempt to convince you dear reader, full of contradictions.
 I have come across mathematics through different stages of life, through different people and for different purposes.
-Mathematics to me is then an amalgamation of different people through different contexts, where "me" is an ever boiling stew of memories. 
+Mathematics to me is then an amalgamation of different people through different contexts, where "me" is alo an ever boiling stew of places, memories, and emotions. 
 
 ## Mathematics as a boogie man
 
@@ -52,7 +51,8 @@ He was teaching algebra but he did it in a different way.
 He wanted to introduce high-school algebra as an appetizer to proper abstract algebra.
 So we talked about the properties of operations and basic set theory.
 It was cool enough to elicit some curiosity but it lacked structure to see a coherent story.
-This approach was also leaving us behind compared to students in other schools who were solving equations.
+He even recommended us to read a book "Uncle Petros and Goldbach's conjecture"- a nice book that I remember not so much for their mathematics but more about the sense of achievement of being the first "book for grown-ups" that I ever finished.
+B.s experimental approach was interesting on paper, but it was also leaving us behind compared to students in other schools who were already solving equations.
 
 B. always gave me weird vibes. 
 I felt I couldn't really trust him. 
@@ -69,18 +69,19 @@ It just happened to be the case that maths was taking them to university a bit e
 There were one or two of them who seemed hungry, but not for knowledge or learning.
 They wanted the prestige. 
 I could see teachers fawning at those kids, always encouraging them. 
-Their parents could not stop talking about them; they were proud and with reason.
+Their parents could not stop talking about them; they were proud with good reason.
 The kids themselves felt honored with a subtle air of superiority.
-After all who wouldn't be impressed by a  8-10 y.o. taking university lectures.
+After all who wouldn't be impressed by a 8-10 y.o. taking university lectures.
 
 Around one year after that, I was leaving that school to be home-schooled.
-My sister studied there for one more year.
-One day, I was there with my parents and we came across L.
-She asked me what I was going to study at uni, to which I answered engineering because it had mathematics.
+My sister was still studying at the same school.
+One day, I was there with my family as there was an end of semester meeting for my sister.
+We came across L.
+She told us nice things about my sister and asked me what I was going to study at uni, to which I answered engineering because it had mathematics.
 She smiled and said she was willing to answer any question I had about mathematics.
 I asked something about how the hours are tallied using base 12 while minutes and seconds are using base 60.
 Asking that question came out of a place to keep face. 
-Back then I thought of myself as someone bad in mathematics.
+Back then I thought of myself as someone not good in mathematics.
 The university program, other teachers, and other students had showed me that you needed to be either already good enough or struggling to ask for extra help. 
 As I was neither, I felt ashamed and never took on her help.
 She was the first glimpse I had at people doing mathematics for the sake of it.
@@ -89,96 +90,146 @@ What happened to the students who attended university lectures?
 Well, many years later, I got to know that the program was not really a success.
 It took maybe 15 students and only one of them pursued higher education in mathematics.
 As for B., he ended up pulling up a scam related to some books and was never seen at the high-school.
-This was also my first time seeing people doing mathematics for the prestige, and learning that mathematicians are all sorts of people. 
-They can also be scammers
+This taught me that mathematicians are all sorts of people: from caring mentors to sly scammers.
 
-## That's deep and all, but... Is it profitable? 
+## That's deep and all, but... Does it make money? 
 
 Later the video introduced another way to approach mathematics: as a tool.
 A collection of gadgets and little machines to solve more and more complicated problems.
 This reminded me a lot of how maths were taught in engineering.
-They were just a way to get to a solution. 
-What matters is to get the correct solution, how and why you do so are besides the point. 
-It felt like the same attitude of those class mates who went earlier to university: a tool to go to university and be recognized as smarter.
+They were just a way to get to a solution.
+Was it the right problem to solve? What can you learn from the solution? Does it mean anything?
+were all questions besides the point.
+What only mattered was to get the correct solution.
+This instrumental approach had analogies in other areas of life:
+mathematics as a mean to gain prestige, and mathematics as a mean to make profitable decisions.
 
-During my engineering education I came across one specific result or family of results: 
-dimensionless numbers showed up in the same forms expressing different phenomena. 
-The first time I saw that it hit me as something deep. Why would completely different areas be described by the same language?
-At the time, I didn't make much of it. 
+Thankfully this education was not all utilitarian.
+I came across different beautiful results. 
+The one I remember the most was how dimensionless numbers showed up in describing different and apparently unrelated physical phenomena.
+The first time I saw that it hit me as something deep. Why would completely different areas be described by the same language? 
+It is like writing a story on one part of the world and then realizing someone else thousands of kilometers away completely unaware of your existence is writing the same story with the same characters using a different name.
+It was a vivid experience but I didn't make much of it. 
 
 Years later, I was doing research in automation of chemical plants. We had to use different mathematical and computational tools. To this aim, I had the opportunity to take an optimization course and a mathematical modeling course. 
-The optimization one showed me in detail why it was important to prove results. 
-I still remember the lecture when they showed me why a point was an optimal point with a proper proof.
-Then the mathematical modelling course solved that question from engineering, giving me a formal version of dimensional analysis. 
-Finally, other researchers in engineering were quite good at mathematics and they could use it to get surprisingly deep insights using mathematics that weren't beyond a calculus class.
+I still remember the lecture in the optimization course when they showed the conditions for a point to be an optimal point with a proper proof.
+I had seen mathematical proofs before, like the infinity of primes or irrationality of two. 
+None of these related to life in a meaningful way. 
+However, this proof about optimality was different.
+People were using these results to design systems that affected my everyday life. 
+These abstract results had an effect on the world!
+
+Another, core memory about mathematics happened during the mathematical modelling course.
+They showed how the same language of mathematics can describe different  physical (and non-physical) areas.
+This stirred lots of curiosity in me. 
+How can a language be so powerful and expressive?
+
+These experiences made me notice how other researchers in engineering were quite good at mathematics and how they used it to get surprisingly deep insights using tools that weren't beyond a calculus class.
+One of them told me informally: "if you think about it, most of the mathematical tools we are using are from the 1800's. We are barely using modern mathematics"
+This provocative comment made me wonder about what modern mathematics are.
+
+These experiences taught me that even if you want to use mathematics for profit, you still need a solid conceptual understanding.
+While proofs are far from direct applications, they lay the foundation for all future applications.
+That maths is not solving problems, it is a language.
+A language to describe the world.
+A language that describes itself at the same time it builds itself.
+
 
 ## Once you're in there is no way back
 
-Many events and one country relocation later, I was studying mathematics on my own. 
-I wanted to know why things in engineering worked as they did.
-I began first learning about machine learning and then going deeper asking why.
-This ended with me studying pure mathematics.
-At this time, I finally understood maths as an art. 
+The questions about mathematics from my days in engineering never left.
+Many events and yet another country relocation later, I was studying mathematics on my own. 
+I began first learning about machine learning as I needed a job.
+At the same time, I couldn't avoid my inquisitive nature so I was trying to understand why and how these tools worked.
+A finite sequence of questions of the form "Why something" converged with me studying pure mathematics.
+This time I was diving into the abstract and started getting a taste for how mathematics is an art where you see the same things in a different way.
 This was the first moment in my life that I have heard people saying things like "This is a beautiful result"
-I was enthralled by the deep connections in all fields, how you could express the same things in different ways.
+I was enthralled by the deep connections between fields, how you could express one thing in different ways depending on what you wanted to prove or what you wanted the result for.
 
-Graduate school in mathematics also introduced me to another world: that of publications.
-Another field, another country. I was at that point doing theoretical computer science.
-While theoretical mathematics focuses on questions such as: how can x result be generalized? can we classify all structures with a certain property? does a solution exist?,
-theoretical computer science worries about: how can we compute x result? can we formally express certain property? is the solution easily computable?
+Beauty drew me in but I stayed for the craftsmanship, as mathematics requires lots of skill.
+It is not just solving the problem, but seeing it creatively, coming up with the right questions and being critical of one's own arguments.
+Good mathematics lies in that - *lagom*, as the swedes would say - or goldilocks zone , a proof must be logically sound and should be written without overwhelming the reader with details but with enough details for the reader to fill in the missing gaps.
+To me, this is more akin to art than science.
 
-The deepest and most beautiful result I learned there was the correspondence between programs and formal proofs. This later lead me into a rabbit hole of learning about type systems and proof assistants.
+From this point onwards, it becomes a craft. 
+The goal is not the solution of a specific problem but constant improvement regarding depth, breadth, understanding, elegance, and articulation of mathematics.
 
-After many years I came back and saw the paths all of these students chosen for mathematics, to my surprise none of them pursued mathematics later in life.
+## Wait! Are you saying a human pursuit is also influenced by human institutions?
 
-After all that I think there are two axes where the exercise of doing maths lives: 
-one the curiosity vs pragmatism, and then the internal vs external satisfaction.
+As my MSc came to an end, the honey moon with pure mathematics was coming to an end too.
+There was a battle between wanting to sill dive into the abstract, and wanting to find a stable career where I could apply some of this abstract knowledge.
+I reached out to many mentors and people in and outside mathematics.
+The conclusion was to make a compromise.
+This lead to another field, another country. 
 
-On one extreme the curiosity vs pragmatism continuum there are the questions about:
-- Can we find a shorter proof?
-- Can we use X formalism instead of Y to prove an existing result?
-The other extreme would be more of the applied mathematics approach:
-- Solving as many problems as possible
-- Make them applicable 
+I was now doing theoretical computer science.
+The biggest shock was to learn how this area approached problems and how they communicated the solutions.
+I was used to questions such as "can you show a solution exists?" but now I was facing "can you solve it quickly enough?".
+There is certainly a lot of overlap between the disciplines of maths and computer science.
+Sadly, this is not reflected in their respective communities.
 
-The internal vs external satisfaction goes from:
-- I want to prove this result for myself and understand the proof for the sake of it 
-while the other is more about solving problems to be seen as a smart person and gaining lots of prestige
+Before leaving pure mathematics, I was warned and forewarned and warned again of the instability that comes with an academic career.
+You will need to move countries many times, learn new cultures both inside and outside the workplace, and be already on the lookout for a new position almost at the same time you are settling to a new position.
+I was also told about that grants,contacts, and publications were the metrics. 
 
-During the different walks of my life I have encountered different people.
-Roughly speaking in this axis, someone doing maths, while living with their parents without sharing any of the results would be on the bottom left corner. 
-A highs school teacher would be in the middle
-           External
-           1   4   7
+Computer science had a different pace than mathematics. 
+It shocked me to see how quickly people published and how important contacts were to have a successful academic career. 
+It took me until the end of my PhD that it was money what lied behind that. 
+As more publications and better contacts make your grant applications stronger.
+What you do has to make money somehow.
 
-Curiosity  2   5   8  Gadgets
+The humanity of it all also came in other flavors.
+The networking aspect of science also surprised me. 
+Maths seemed as something that anyone from anywhere could get into.
+In practice, there was much more nuance to it.
+For recreational and general topics, it was open for everyone.
+The deeper you went the more important other conditions became. 
+Your future in mathematics didn't only hinge on your talent and discipline, but also on your location, the institution you attended, and who your advisor was. 
+The location limits available institutions, which then limits the topics studied and who is doing research there.
+Then your advisor becomes key in what is going to happen to you.
+First this was due to the problem they gave you. 
+If you were lucky your might get a problem that would take off in a few years. 
+They also defined the audience for your results, usually the tight community they already belong to.
+Their word also carries a lot of weight as academic positions usually require a recommendation letter.
+While it is still possible to make it through an academic career without that support, in my experience, the most prolific academics I have met have continued to collaborate with their mentors.
+Maybe this is worth looking into more scientifically.
 
-           3   6   9
-           Internal
+Prestige was also a huge currency.
+Highly regarded academics have more chances to be published and to get funding.
+This meant that people, whether consciously or not, tried to pander to the interests and quirks of these academics.
+Their word carried lots of weight, which was not related to the degree of involvement in the day to day research activities. 
+In this way we have that curiosity is bound by the interests of senior academics, who are themselves bound by funding opportunities which are in turn constrained by political agendas.
+While this exact interaction is not clear in all jobs, it is a reality that happens to an extent in all fields and industries.
 
-1. Would be someone who wants to make lots of educational content and become famous with it
-2. Something like a teacher
-3. Someone working with maths inside their parents basement
-4. Olympiad maths and  famous university professors in an esoteric areas
-5. Prolly most professional mathematicians are around here
-6. This might be people who have left mathematics but still follow it 
-7. These are professors in areas that are popular. Think quantum computing applied ML
-8. Prolly applied mathematicians live there
-9. These are the people who solve math puzzles all the time for their own sake
+Academia was not all systemic issues and money.
+I had the joy of teaching and showing people how beautiful mathematics can be and how you can be creative.
+One of the best things about having done academic work was seeing how people's mindset changed by thinking about mathematics in a different way.
+I took it with great pride to see how by the end of the course my students were writing better arguments, asking deeper questions, and being more willing to engage with critical thinking.
+
+Another source of joy was talking to colleagues from different fields.
+I always found it delightful to see how they tackled a problem, why they found certain problems interesting, and how did their mind work.
+It was engaging and nurturing.
+Many times a short example over a coffee talk gave me a clearer idea than many hours of just listening to lectures.
+It was also nice to see how someone's passion for a topic triggered me to become curious about the same topic and learn more about it.
+This human aspect is probably what I found most fulfilling from academic work.
+It is what I romantically reminisce about, when people ask me about academia.
+
+## Who is mathematics to me then?
+
+This convoluted trip has shown a push and pull between different forces such as internal curiosity vs external rewards, understanding vs prestige, beauty vs applications, and so on.
+These different aspects of mathematics throughout my life have taken form through different people, books, lectures, topics, and anecdotes.
+From the highest highs understanding a deep result and sharing it with other people, to the lowest lows struggling to prove a result that could make or break my thesis and get me fired; from the anxiety of trying to understand a concept before a deadline, to the peace of solving problems at my own pace, mathematics has been there.
+A silent, yet loud, companion.
+A ruthless one since the logic is either sound or not, but also compassionate one giving you a supportive community and all the time in the world to figure out things on your own.
+
+Of all the contrasts in and around mathematics, the most striking one to me is that between its enduring almost eternal nature and its human emotional core.
+Mathematical statements are the closest we have to something truly transcendental.
+If a statement is true, it is so no matter what anyone says and it is always the case.
+At the same time, the activity of mathematics is deeply human both in the emotions it evokes and how it can channel creativity as well as its context within human interactions: from informal talks among peers to institutional and political directives.
+To be human is to be ephemeral, yet mathematics is as human as it is beautiful, expressive and immutable.
+
+So, who is mathematics?:
+Mathematics is a friend with whom I hang out some times, to catch up about old friends, to keep my brain busy, I guess...  and to not be bored.
 
 
-Institutional policies are driving people to be in the top right quadrant, where they can push out as many results as possible in popular areas.
-
-Something I never liked was the sense of servitude and idolatry towards highly regarded academics. 
-It seems to go against all being humans and treating each other equally
-There is also a difference between contexts that is not seen, who taught you, where were you, how supported were you and so on.
-
-The joy of teaching and showing people how beautiful things are and how you can be creative.
-
-Wrestling with a problem. Maths feels like a sparring partner
-
-Who is maths for me? 
-A person, a complicated person
-
-It was a dragon, then a horse, how a cozy bear. 
 
